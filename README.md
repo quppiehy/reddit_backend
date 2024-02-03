@@ -1,2 +1,3 @@
 # reddit_backend
-Individual project
+
+This is an individual project
