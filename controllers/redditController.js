@@ -21,7 +21,7 @@ class RedditController {
 
       console.log(posts);
 
-      // await reddit_top_posts.bulkCreate(posts);
+      await reddit_top_posts.bulkCreate(posts);
 
       res.json(posts);
     } catch (error) {
